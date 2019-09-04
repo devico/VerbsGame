@@ -1,0 +1,2 @@
+python-telegram-bot==11.1.0
+dialogflow==0.6.0

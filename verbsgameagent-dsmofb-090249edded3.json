@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "verbsgameagent-dsmofb",
+  "private_key_id": "090249edded3f69c6def8696bc0f4dd48cdb5e73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3FowQCcKTcu3w\neM0p7jL8/VHeArMuaCau7R9dLwWJgu9+YzLzyXJUl9cCvQX3/BgaYFPsVsrFclyN\naGGFIasG3Mix/Km5LP7wJfT0Ggh7D47VV0HF4tnxZRDcLPyRcxvjuYINxEhStzkI\ncY9aESz+goxm+tYgCnQIVzC4L45vTL+2ytVRCltI6VP+mZI5H0aObIE0GjlO/i4W\na4lpxlqTk06ShDP8p7m1CAMPV91acR11qUWKIVeY03a5aZw7SNtcqbiaxXt7tr1U\nBJCHafqVwUYLDh3A94+2w1ao5gle4DJiY5gqz6k5tUEcfitI8GBqDR60h1ughhSh\n3Sh4i1m5AgMBAAECggEAAPWpy0W50tsF2z5O2PrqIoBTZwX9mW8rULxmby8ZaNSa\nW7+6WyPBqSbYlieWeevE1pKNrg3wZyOHz6ft5uw7wL/0f1ZTL2jId0rDo2nlhHua\n5IxeCGL9gHHmqjjEJCEF0uY8g8T1GhXiwyQRO8geQ8E8aifDaoyTeh224ChDp1qt\n2UsOuioRASyPiK99rkCvOBbMQgY/Fg+GsPOaHkpmNVn/+CnINYgkhlSJgLwZRkoV\ngFgnbIT7wYALcDiW0BYQ93aZTasNXHWd74FmFqbrbaENo0ueXaAFtArSPTevjf7L\n+PQhpl2ugmofbB0piUxZClxPDwsW6ZnS8lsQb3gVAQKBgQDsjSmpoCxEA3spCDyG\nylFjY+KFxGleImEVl0hF9YeKPZ0JMiSZm9FLndBSvd7cP40b7KWF3NPw2/aJr6vn\nsw4KSeRxYb2u7jgeNEN0Tg4SjJ0KZl0U2UC9oqICINr52MTn7zWoRpFmxFO6QkdL\n87+pMoZafiJLNpNy0DuzTQalQQKBgQDGJBwf+U/9wLlI9lhM1cB+WdnXDPB+iDK1\nBRFTL0t77vWov5ScwLcWK0swrLFD49icO2QPqgSISX6x9rdYXFlVVisubg1d3x4v\n/NmiVaxV7TUs2cmCM9CpCmxkhpvQCoCr5MFsWn5yFYPuRLmOILwzhYT2oNuYSJtm\nb56h3IG+eQKBgB9LNX3JQNHmm/57pnY2gbniVu9XYpEffzR6BQesSbgSGppC1fC0\nWmXkhNDNaZQ9nA9bqTIiWq98igsBAH7wgyT9TYlqYsunnCjyxRG32ci+bXAYxquh\nah0sTL53VkDDWplMXg7a9xVfV6xGZGQ55NsfYgLKuQK2P59qyNsZj42BAoGBAL/e\nG7YCkCkixMkYc20D18ECdOW/y+pbLO8Jlzs8IxZB0XS0/83C+AfpqIfb0lPxgMHY\n6Q4aDwWCVcMzK1vPIVp3dJ0jSKJL+klxybVezODwMHvb8Tu5vSbTxx6ZEqykXvEV\nNRAdmTAUEYta1WwB2vzxIE5Kehq+xGyvTadjhefRAoGAeSbtDat/iO6jpMgI1G6o\nQRTBjxEyEfvnZe6pHJW7nf9WXrfPB3xXwsoIlwrofjbelpHP5lVDpz6HzKRw5Eok\nGYj5fa77WmHpnCqI72hDvrbzg8A8DzHG1uB1Nj4A3UJkbKaMcNCJ9OtCBR1br0+A\n8rUhBnij4rqjwBf4Q/zvnlY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "verbsgame@verbsgameagent-dsmofb.iam.gserviceaccount.com",
+  "client_id": "107835826862626553324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/verbsgame%40verbsgameagent-dsmofb.iam.gserviceaccount.com"
+}
