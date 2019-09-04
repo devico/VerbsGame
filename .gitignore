@@ -127,3 +127,6 @@ dmypy.json
 myvenv/
 requirements/local.txt
 maresto_post/settings/local.py
+
+# dialogflow
+verbsgameagent-dsmofb-090249edded3.json
