@@ -4,7 +4,8 @@ import telegram
 from train_dialogflow_api import train_bot, get_dialog_response
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "verbsgameagent-dsmofb-090249edded3.json"
+credential_json_file = os.getenv("CREDENTIAL_JSON_FILE")
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credential_json_file
 
 
 def start(bot, update):
